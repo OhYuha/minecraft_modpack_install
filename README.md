@@ -14,4 +14,4 @@
 3. `pyinstaller --onefile --icon="icon.ico" --add-data "data;data" main.py` 을 입력한다.
 4. dist폴더의 main.exe파일을 확인한다.
 
-본 프로그램은 BSD-3 라이센스로 배포합니다.
+본 프로그램의 코드는 BSD-3 라이센스로 배포합니다.
